@@ -2,6 +2,20 @@
 
 AI Campus Hub is a full-stack campus application available through an Emergent preview deployment.
 
+---
+
+## Table of Contents
+
+- [Live Demo](#live-demo)
+- [Repository Status](#repository-status)
+- [Recommended Structure](#recommended-structure)
+- [Git Commands](#git-commands)
+- [Adding the Real Source](#adding-the-real-source)
+- [Security](#security)
+- [Project Link](#project-link)
+
+---
+
 ## Live Demo
 
 https://ai-campus-hub-26.preview.emergentagent.com/
@@ -34,11 +48,9 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/AI-Campus-Hub.git
+git remote add origin https://github.com/spjayesh2005-ui/AI-Campus-Hub.git
 git push -u origin main
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ## Adding the real source
 
@@ -55,5 +67,5 @@ Never commit `.env` files containing real credentials.
 
 ## Project link
 
-Live application:
+Live application:  
 https://ai-campus-hub-26.preview.emergentagent.com/
